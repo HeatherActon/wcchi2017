@@ -31,14 +31,16 @@ WordCamp Chicago 2017 Styles
 	display: none;
 }
 body.home.page-two-column:not(.archive) #primary .entry-content {
-	width: 100%;
+	width: 66.666%;
+	margin: 0 auto;
 	text-align: center;
+	font-size: 18px;
 }
 body.page-two-column:not(.archive) #primary .entry-header,
 body.page-two-column:not(.archive) #primary .entry-content{
 	width: 100%;
 }
 h2, ent .recent-posts .entry-title {
-    font-size: 42px;
-    font-size: 2.625rem;
+    font-size: 30px;
+    font-size: 1.875rem;
 }
