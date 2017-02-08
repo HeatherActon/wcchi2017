@@ -34,3 +34,7 @@ body.home.page-two-column:not(.archive) #primary .entry-content {
 	width: 100%;
 	text-align: center;
 }
+body.page-two-column:not(.archive) #primary .entry-header,
+body.page-two-column:not(.archive) #primary .entry-content{
+	width: 100%;
+}
