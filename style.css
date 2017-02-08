@@ -48,3 +48,6 @@ h2, ent .recent-posts .entry-title {
 .entry-content a {
 	font-weight: bold;
 }
+.site-footer {
+	background: #efefef;
+}
