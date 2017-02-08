@@ -11,10 +11,6 @@ WordCamp Chicago 2017 Styles
 	height: auto;
 }
 
-body.home:not(.title-tagline-hidden) .site-branding-text {
-	display: none !important;
-}
-
 .custom-logo-link {
 	display: none;
 }
