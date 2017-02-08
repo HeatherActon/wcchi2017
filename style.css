@@ -15,7 +15,7 @@ body.home:not(.title-tagline-hidden) .site-branding-text {
 	display: none !important;
 }
 
-.custom-logo-link img {
+.custom-logo-link {
 	display: none;
 }
 
@@ -25,7 +25,4 @@ body.home:not(.title-tagline-hidden) .site-branding-text {
 	height: 300px;
 	margin: -220px 0 0 -150px;
 	width: 300px;
-}
-.custom-logo-link {
-	padding-right: 0;
 }
