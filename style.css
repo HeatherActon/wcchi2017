@@ -24,10 +24,10 @@ body.home:not(.title-tagline-hidden) .site-branding-text {
 	background-image: url('http://2017.chicago.wordcamp.org/files/2017/02/WCP1702-Logo-Vert-600x600-020717-hmpg.png');
 	background-size: 300px 300px;
 	height: 300px;
-	margin: -320px auto 0 auto;
+	margin: -350px 0 0 -250px;
 	width: 300px !important;
     	position: absolute;
-    	top: 50%;
+    	top: 60%;
     	left: 50%;
 	z-index: 2;
 }
