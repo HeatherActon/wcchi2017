@@ -45,3 +45,6 @@ h2, ent .recent-posts .entry-title {
     font-size: 30px;
     font-size: 1.875rem;
 }
+.entry-content a {
+	font-weight: bold;
+}
