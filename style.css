@@ -31,9 +31,10 @@ WordCamp Chicago 2017 Styles
 .home .site-title {
 	display: none;
 }
-
-.home .site-description {
+.home .site-branding-text {
 	width: 100%;
 	text-align: center;
+}
+.home .site-description {
 	font-size: 24px;
 }
