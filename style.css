@@ -27,3 +27,13 @@ WordCamp Chicago 2017 Styles
     	left: 50%;
 	z-index: 2;
 }
+
+.home .site-title {
+	display: none;
+}
+
+.home .site-description {
+	width: 100%;
+	text-align: center;
+	font-size: 24px;
+}
