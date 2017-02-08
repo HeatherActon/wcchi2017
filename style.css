@@ -15,7 +15,9 @@ body.home:not(.title-tagline-hidden) .site-branding-text {
 	display: none !important;
 }
 
-
+.custom-logo-link img {
+	display: none;
+}
 
 .home .wp-custom-header:after {
 	background-image: url('http://2017.chicago.wordcamp.org/files/2017/02/WCP1702-Logo-Vert-600x600-020717-hmpg.png');
