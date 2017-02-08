@@ -1,0 +1,28 @@
+/*
+WordCamp Chicago 2017 Styles
+*/
+.has-header-image .custom-header-media img, .has-header-image:not(.twentyseventeen-front-page):not(.home) .custom-header-media img {
+	top: -320%;
+	height: auto;
+}
+
+.home.has-header-image .custom-header-media img {
+	top: -30%;
+	height: auto;
+}
+
+body.home:not(.title-tagline-hidden) .site-branding-text {
+	display: none !important;
+}
+
+.custom-logo-link img {
+	display: none;
+}
+
+.home .wp-custom-header:after {
+	background-image: url('http://2017.chicago.wordcamp.org/files/2017/02/WCP1702-Logo-Vert-600x600-020717-hmpg.png');
+	background-size: 300px 300px;
+	height: 300px;
+	margin: -220px 0 0 -150px;
+	width: 300px;
+}
