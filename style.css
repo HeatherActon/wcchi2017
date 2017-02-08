@@ -27,7 +27,7 @@ WordCamp Chicago 2017 Styles
 .home .site-description {
 	font-size: 32px;
 }
-.home .entry-title {
+.home .entry-header {
 	display: none;
 }
 body.home.page-two-column:not(.archive) #primary .entry-content {
