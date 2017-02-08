@@ -19,7 +19,8 @@ body.home:not(.title-tagline-hidden) .site-branding-text {
 	display: none;
 }
 
-.home .custom-header-media:before {
+.home .custom-header-media:after {
+	content: "";
 	background-image: url('http://2017.chicago.wordcamp.org/files/2017/02/WCP1702-Logo-Vert-600x600-020717-hmpg.png');
 	background-size: 300px 300px;
 	height: 300px;
