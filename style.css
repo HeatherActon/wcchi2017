@@ -26,4 +26,7 @@ body.home:not(.title-tagline-hidden) .site-branding-text {
 	height: 300px;
 	margin: -620px auto 0 auto;
 	width: 300px !important;
+    position: absolute;
+    top: 50%;
+    left: 50%;
 }
