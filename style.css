@@ -3,7 +3,6 @@ WordCamp Chicago 2017 Styles
 */
 .has-header-image .custom-header-media img, .has-header-image:not(.twentyseventeen-front-page):not(.home) .custom-header-media img {
 	top: -320%;
-	height: auto;
 }
 
 .home.has-header-image .custom-header-media img {
