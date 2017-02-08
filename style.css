@@ -26,3 +26,6 @@ body.home:not(.title-tagline-hidden) .site-branding-text {
 	margin: -220px 0 0 -150px;
 	width: 300px;
 }
+.custom-logo-link {
+	padding-right: 0;
+}
