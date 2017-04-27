@@ -56,6 +56,8 @@ h2, ent .recent-posts .entry-title {
 }
 .wcpt-schedule .wcpt-session-speakers {
 	display: block;
+}
+.wcpt-schedule .wcpt-session-speakers a {
 	font-weight: normal;
 	box-shadow: none;
 }
