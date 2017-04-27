@@ -51,3 +51,11 @@ h2, ent .recent-posts .entry-title {
 .site-footer {
 	background: #efefef;
 }
+.wcpt-schedule .wcpt-session-title {
+	text-decoration: none;
+}
+.wcpt-schedule .wcpt-session-speakers {
+	display: block;
+	font-weight: normal;
+	text-decoration: none;
+}
