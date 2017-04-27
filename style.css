@@ -61,3 +61,6 @@ h2, ent .recent-posts .entry-title {
 	font-weight: normal;
 	box-shadow: none;
 }
+.wcpt-schedule .wcpt-session-speakers a:hover {
+	color: #269cb3;
+}
